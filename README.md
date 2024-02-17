@@ -22,6 +22,13 @@ Este script se proporciona con fines educativos y de aprendizaje. Si decides uti
 - Respeta los términos de servicio y políticas de uso de Wallapop.
 - No utilices este script para realizar actividades ilegales o antiéticas.
 
+## TODO
+
+- Convertir el codigo a POO y exportar los datos a un excel para hacerlos mas legibles
+- Crear menu para poder cambiar los parametros de busqueda
+- Automatizar el proceso de ejecucion del script para recibir los datos cada x hora al dia
+- Crear grupo en telegram con un bot que pueda llamar al script, y este responder las busquedas
+
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si encuentras algún problema o tienes alguna mejora, no dudes en abrir un issue o enviar un pull request.
