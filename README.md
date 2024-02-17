@@ -3,6 +3,7 @@
 ## Descripción
 
 Este script en Python utiliza la API de Wallapop para realizar búsquedas de productos basadas en ciertos criterios y mostrar los resultados. El script permite especificar parámetros como palabras clave, rango de precios, ubicación geográfica, entre otros, para refinar la búsqueda.
+Este script se ha realizado en menos de 10 minutos gracias a ChatGPT.
 
 ## Uso
 
