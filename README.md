@@ -10,8 +10,7 @@ Este script se ha realizado en menos de 10 minutos gracias a ChatGPT.
 1. Clona este repositorio o descarga el archivo `main.py`.
 2. Instala las dependencias necesarias ejecutando `pip install requests` en tu entorno virtual o sistema.
 3. Ejecuta el script utilizando Python 3 con el comando `python main.py`.
-4. Sigue las instrucciones para ingresar los parámetros de búsqueda.
-5. El script mostrará los resultados de la búsqueda según los criterios especificados.
+4. El script mostrará los resultados de la búsqueda según los criterios especificados por codigo.
 
 ## Notas éticas
 
